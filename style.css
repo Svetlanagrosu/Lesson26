@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    height: 100vh;
+}
+.countainer {
+    padding: 10px;
+}
+span {
+    font-size: 3rem;
+    background-color: blue;
+    padding: 20px 20px;
+    margin: 20px;
+    color: aliceblue;
+}
+button {
+    font-size: 2rem;
+    cursor: pointer;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
